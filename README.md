@@ -1,4 +1,4 @@
-##PRACTICAL CONTENT##
+@PRACTICAL CONTENT@
 
 1.1. Store & Display Values in Different Variables: Create and display variables of different data types, including Integer, Double, Float, Long, Short, Byte, Char, Boolean, and String.
 
